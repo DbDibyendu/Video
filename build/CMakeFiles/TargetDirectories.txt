@@ -1,0 +1,4 @@
+/home/dibyendu/video-component/build/CMakeFiles/edit_cache.dir
+/home/dibyendu/video-component/build/CMakeFiles/rebuild_cache.dir
+/home/dibyendu/video-component/build/CMakeFiles/example1.dir
+/home/dibyendu/video-component/build/CMakeFiles/example1_automoc.dir
